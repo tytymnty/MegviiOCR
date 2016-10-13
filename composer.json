@@ -1,5 +1,5 @@
 {
-  "name": "tytymnty/MegviiOCR",
+  "name": "tytymnty/megvii-ocr",
   "description": "OCR SDK for Megvii Cloud",
   "license": "MIT",
   "keywords": ["megvii ocr", "card ocr", "id card ocr"],
